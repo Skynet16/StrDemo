@@ -7,4 +7,3 @@ public class StrDemo {
         System.out.println("D\tE\tF");
     }
 }
-
